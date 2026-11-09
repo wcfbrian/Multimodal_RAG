@@ -1,4 +1,4 @@
-# Multimodal Chatbot
+# Multimodal RAG
 
 Grounded multimodal question answering app built with FastAPI, Streamlit, LangGraph, and LangChain. Supports OpenRouter and Ollama providers.
 
